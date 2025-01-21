@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **LLM-based Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mahdi-khoshmaram](https://github.com/mahdi-khoshmaram)
-
 - 💬 Ask me about **LLMs and Natural language processing**
 
 - 📫 How to reach me **[myFirstName][myLastName]zade@gmail.com**
