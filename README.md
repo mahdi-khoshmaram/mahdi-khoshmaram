@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-khoshmaram" alt="mahdi-khoshmaram" /></a> </p>
 
-- 🔭 I’m currently working on [Relation Extraction in Medical Texts Using Large Language Models and Retrieval-Augmented Generation Pipelines](https://github.com/mahdi-khoshmaram/UMLS-for-LLMs-in-medical-domain)
+- 🔭 I’m currently working on [Relation Extraction in Medical Texts Using Large Language Models and RAG Pipelines](https://github.com/mahdi-khoshmaram/UMLS-for-LLMs-in-medical-domain)
 
 - 🌱 I’m currently learning **LLMOps**
 
