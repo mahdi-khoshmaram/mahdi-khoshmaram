@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-khoshmaram" alt="mahdi-khoshmaram" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mahdikhoshmaram" target="blank"><img src="https://img.shields.io/twitter/follow/mahdikhoshmaram?logo=twitter&style=for-the-badge" alt="mahdikhoshmaram" /></a> </p>
-
-- 🔭 I’m currently working on [Relation Extraction in Clinical and Medical Using LLMs and RAG pipelines](https://github.com/mahdi-khoshmaram/UMLS-for-LLMs-in-medical-domain)
+- 🔭 I’m currently working on [Relation Extraction in Medical Texts Using Large Language Models and Retrieval-Augmented Generation Pipelines](https://github.com/mahdi-khoshmaram/UMLS-for-LLMs-in-medical-domain)
 
 - 🌱 I’m currently learning **LLMOps**
 
@@ -21,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mahdikhoshmaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahdikhoshmaram" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahdi-khoshmaram-211932186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahdi-khoshmaram-211932186/" height="30" width="40" /></a>
 </p>
 
@@ -31,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-khoshmaram&show_icons=true&locale=en&layout=compact" alt="mahdi-khoshmaram" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-khoshmaram&show_icons=true&locale=en" alt="mahdi-khoshmaram" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-khoshmaram&" alt="mahdi-khoshmaram" /></p>
