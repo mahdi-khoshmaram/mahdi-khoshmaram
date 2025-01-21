@@ -8,13 +8,14 @@
 
 - 🔭 I’m currently working on [Relation Extraction in Medical Texts Using Large Language Models and RAG Pipelines](https://github.com/mahdi-khoshmaram/UMLS-for-LLMs-in-medical-domain)
 
-- 🌱 I’m currently learning **LLMOps**
+- 🌱 I’m currently learning more about **Multi-modal AI and LLMOps**
 
-- 👯 I’m looking to collaborate on **LLM-based Projects**
+- 🔍 Always curious to find new ways to make data talk (literally)!
 
 - 💬 Ask me about **LLMs and Natural language processing**
 
-- 📫 How to reach me **[myFirstName][myLastName]zade@gmail.com**
+- 📫 Connect with me:[My Webpage](https://mahdi-khoshmaram.github.io/)
+- ✨ Check out my repositories for projects!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
