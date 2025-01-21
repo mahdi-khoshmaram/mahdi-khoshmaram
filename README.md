@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A passionate NLP engineer!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdi-khoshmaram&label=Profile%20views&color=0e75b6&style=flat" alt="ceenaa" /> </p>
 
+<img align="center" src="https://user-images.githubusercontent.com/59034956/225281292-64e07b9f-cfb0-450c-b774-81532efa25ae.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdi-khoshmaram&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi-khoshmaram" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-khoshmaram" alt="mahdi-khoshmaram" /></a> </p>
