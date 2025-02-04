@@ -14,7 +14,6 @@
 
 - 💬 Ask me about **LLMs and Natural language processing**
 
-- 📫 Connect with me: [My Webpage](https://mahdi-khoshmaram.github.io/)
 - ✨ Check out my repositories for projects!
 
 <h3 align="left">Connect with me:</h3>
